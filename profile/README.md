@@ -1,3 +1,5 @@
+<img alt="patronum labs logo" src="../assets/LogoBanner.png" width="auto" height="120">
+
 **Patronum Labs** is an open-source organization focused on providing developer-friendly tools and services for the Ethereum ecosystem. This GitHub Organization hosts all of Patronum Labs' open-source projects, tools, and utility libraries.
 
 We are currently building and maintaining:
