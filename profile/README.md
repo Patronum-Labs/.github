@@ -6,6 +6,6 @@ We are currently building and maintaining:
 
 * [force-transfer](https://github.com/Patronum-Labs/force-transfer): An npm package containing a utility library for forcing native token transfers using `selfdestruct` and a singleton `ForceTransfer` contract.
 * [nick-method](https://github.com/Patronum-Labs/nick-method): An npm package with utility functions for generating transactions according to the Nick method, used for legacy transactions pre-EIP155.
-* [evm-robot](link-to-repo): A development tool to assist developers while developing, debugging, and browsing the blockchain.
+* [evm-robot](https://github.com/Patronum-Labs/evm-robot): A development tool to assist developers while developing, debugging, and browsing the blockchain.
 
 We welcome contributions to our projects! Please check individual repositories for contribution guidelines.
