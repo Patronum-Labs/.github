@@ -12,3 +12,4 @@ We are currently building and maintaining:
 We welcome contributions to our projects! Please check individual repositories for contribution guidelines.
 
 
+Some projects are scheduled and are work in progress.
