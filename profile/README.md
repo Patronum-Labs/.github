@@ -12,4 +12,9 @@ We are currently building and maintaining:
 We welcome contributions to our projects! Please check individual repositories for contribution guidelines.
 
 
+Articles Published:
+
+* [Nick’s method — Ethereum Keyless Execution](https://medium.com/patronum-labs/nicks-method-ethereum-keyless-execution-168a6659479c): Article explaining the origin of Nick's method, how it works, and the different usecases.
+
+
 Some projects are scheduled and are work in progress.
