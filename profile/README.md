@@ -15,6 +15,7 @@ We welcome contributions to our projects! Please check individual repositories f
 Articles Published:
 
 * [Nick’s method — Ethereum Keyless Execution](https://medium.com/patronum-labs/nicks-method-ethereum-keyless-execution-168a6659479c): Article explaining the origin of Nick's method, how it works, and the different usecases.
+* [How ***.base.eth*** Names Work ?](https://medium.com/patronum-labs/how-base-eth-names-work-a9578724520a): Article explaining how *.base.eth* work, highlighting the structure, benefits and risks.
 
 
 Some projects are scheduled and are work in progress.
